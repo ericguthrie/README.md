@@ -5,3 +5,11 @@ This repository contains all of the notes taken by [Eric](https://github.com/eri
 
 
 
+### Table of Contents
+* [Week 1](/Week_1)
+  * [day 1](/Week_1/Day_1)
+  1. test
+  2. test 
+  3. test
+
+
